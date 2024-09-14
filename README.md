@@ -107,7 +107,7 @@ A **Biblioteca API REST** é uma aplicação desenvolvida em **Spring Boot** que
 1. **Clone o Repositório:**
 
     ```bash
-    git clone https://github.com/seuusuario/biblioteca-api.git
+    git clone https://github.com/ArtFiorindo
     ```
 
 2. **Navegue até o Diretório do Projeto:**
