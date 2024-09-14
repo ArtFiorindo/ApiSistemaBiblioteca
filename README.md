@@ -105,7 +105,7 @@ A Biblioteca API REST é uma aplicação desenvolvida em Spring Boot que fornece
 
 🔧 Execução da Aplicação
       
-  1. Clone o Repositório: git clone https://github.com/seuusuario/biblioteca-api.git
+  1. Clone o Repositório: git clone (https://github.com/ArtFiorindo/ApiSistemaBiblioteca.git)
 
   2. Navegue até o Diretório do Projeto: cd biblioteca-api
 
